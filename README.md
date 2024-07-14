@@ -1,6 +1,10 @@
 # BallonPathPlaner
 A hot air balloon or tethered balloon is dependent on the direction in which the wind is blowing. Based on the wind direction, the balloonist can decide whether he can reach a destination and, if so, at what altitude he must fly the balloon.
 
+# Context 
+
+First challenge of Kevin Chromiks Minihackathon, starting 14th of July. https://www.youtube.com/@KevinChromik https://minihackathon.de/gdge/
+
 # Requirements
 consuming data from https://api.open-meteo.com/
 
